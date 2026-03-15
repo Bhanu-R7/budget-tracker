@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.bhanu_r7.twa",
+        "sha256_cert_fingerprints": ["D6:5B:AD:53:4B:F1:02:C3:BA:B5:48:86:CD:FB:B2:5A:74:50:3A:2D:88:DF:8B:0E:E3:1C:DA:E6:57:70:5D:C4"]
+      }
+    }]
